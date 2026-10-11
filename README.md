@@ -78,5 +78,3 @@ No new MRI training or inference was performed when preparing this repository. T
 ## Citation
 
 Hemshankar Laugi, Haiyang Tang, and Xi Zhu. “Transfer Learning for Alzheimer’s MRI Classification: A Subject-Level Study of ImageNet and RadImageNet Pretraining.” Accepted to the IEEE BIBM ML4BMI workshop, 2026.
-
-Add the final proceedings citation and DOI when available. No DOI has been invented.
