@@ -1,0 +1,15 @@
+cohort,init,fine_tune,macro_f1_mean,macro_f1_sd,macro_auc_mean,macro_auc_sd
+full,scratch,full,0.5215,0.0973,0.8482,0.0409
+full,imagenet,frozen,0.5462,0.061,0.8566,0.0464
+full,imagenet,partial,0.5411,0.0953,0.8628,0.0432
+full,imagenet,full,0.5085,0.0895,0.868,0.0466
+full,radimagenet,frozen,0.5267,0.0851,0.862,0.0261
+full,radimagenet,partial,0.5181,0.072,0.8651,0.0419
+full,radimagenet,full,0.5162,0.0894,0.8727,0.0304
+age60,scratch,full,0.4672,0.0659,0.6307,0.057
+age60,imagenet,frozen,0.4544,0.0969,0.6485,0.0777
+age60,imagenet,partial,0.417,0.0877,0.6644,0.0711
+age60,imagenet,full,0.4403,0.0601,0.6824,0.0596
+age60,radimagenet,frozen,0.3914,0.0864,0.6508,0.0441
+age60,radimagenet,partial,0.4109,0.1232,0.6452,0.0824
+age60,radimagenet,full,0.4426,0.0911,0.6538,0.0508

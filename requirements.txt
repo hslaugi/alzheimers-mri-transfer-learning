@@ -1,0 +1,14 @@
+# Dependency list, NOT the original training-environment lockfile.
+# Install a compatible torch/torchvision pair for your CPU/CUDA runtime first.
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+Pillow
+openpyxl
+xlrd
+ipython
+jupyterlab
+nbformat

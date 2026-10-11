@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+*.pth
+*.pt
+*.zip
+data/
+weights/
+runs/
+results/reported_figures/
+.env

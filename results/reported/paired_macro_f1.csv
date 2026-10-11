@@ -1,0 +1,7 @@
+cohort,model_a,model_b,difference,ci_low,ci_high
+full,imagenet/frozen,scratch/full,0.0218,-0.0565,0.0987
+full,radimagenet/frozen,scratch/full,0.0259,-0.0414,0.0932
+full,radimagenet/frozen,imagenet/frozen,0.0041,-0.0716,0.0803
+age60,imagenet/frozen,scratch/full,-0.0167,-0.1074,0.0713
+age60,radimagenet/frozen,scratch/full,-0.0581,-0.1535,0.0358
+age60,radimagenet/frozen,imagenet/frozen,-0.0414,-0.1339,0.0517
